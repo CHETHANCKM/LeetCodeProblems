@@ -25,6 +25,7 @@ public class ContainsDuplicate {
         Time Complexity: O(n)
         Space Complexity: O(n)
      */
+
     private static void HashsetMethod(int[] nums) {
         Set<Integer> set = new HashSet<>();
 
